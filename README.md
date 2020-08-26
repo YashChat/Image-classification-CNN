@@ -1,4 +1,4 @@
-# Image_classification_CNN
+# Image classification CNN
 
 A Convolutional Neural Network that is able to detect various objects in images. 
 
